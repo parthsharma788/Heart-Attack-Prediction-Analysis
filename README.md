@@ -30,7 +30,8 @@ The dataset used for this analysis includes patient health metrics such as:
 ## 🏆 End Result
 We got 87% accuracy and 88% AUC with the Logistic Regression model.
 
-## 📌 Key Insight: Logistic Regression provided highly accurate predictions, making it a reliable model for early diagnosis.
+## 📌 Key Insight: 
+Logistic Regression provided highly accurate predictions, making it a reliable model for early diagnosis.
 
 ## 🛠️ Technologies Used
 🐍 Python → For data preprocessing and model building
