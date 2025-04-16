@@ -1,5 +1,6 @@
 # 🫀 Heart Attack Prediction and Analysis
 ![image](https://github.com/user-attachments/assets/7e383fba-9bbb-4c7c-aa3e-0dffbc6766dc)
+
 This project aims to explore the application of data analysis and machine learning techniques in predicting heart attacks.
 We will examine ML models, including supervised learning algorithms such as logistic regression, and assess their performance in predicting the likelihood of a heart attack based on patient data.
 
