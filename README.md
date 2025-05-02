@@ -27,7 +27,8 @@ The dataset used for this analysis includes patient health metrics such as:
 
 🏥 Previous Medical Conditions
 
-## 📌 Source: Kaggle's Heart Attack Prediction Dataset
+## 📌 Source: 
+Kaggle's Heart Attack Prediction Dataset
 
 ## 🏆 End Result
 We got 87% accuracy and 88% AUC with the Logistic Regression model.
@@ -46,9 +47,9 @@ Logistic Regression provided highly accurate predictions, making it a reliable m
 
 📉 Seaborn & Matplotlib → For data visualization and EDA
 
-## 👨‍💻 Author - Parth Sharma
-## 📧 Email: Parthsharma2300@gmail.com
-## 🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
+#### 👨‍💻 Author - Parth Sharma
+#### 📧 Email: Parthsharma2300@gmail.com
+#### 🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
 
 
 ⭐ If you found this helpful, consider giving it a star!
