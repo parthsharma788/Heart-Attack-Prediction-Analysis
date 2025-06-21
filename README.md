@@ -31,10 +31,10 @@ The dataset used for this analysis includes patient health metrics such as:
 Kaggle's Heart Attack Prediction Dataset
 
 ## 🏆 End Result
-We got 87% accuracy and 88% AUC with the Logistic Regression model.
+Applied Random Forest Classifier Model, achieving 90.3% accuracy and 93% AUC score and visualized insights using Power BI.
 
-## 📌 Key Insight: 
-Logistic Regression provided highly accurate predictions, making it a reliable model for early diagnosis.
+## 📌 Key Insight
+Random Forest provided highly accurate predictions, making it a reliable model for early diagnosis.
 
 ## 🛠️ Technologies Used
 🐍 Python → For data preprocessing and model building
