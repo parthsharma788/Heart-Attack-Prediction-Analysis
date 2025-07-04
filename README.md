@@ -47,7 +47,7 @@ Random Forest provided highly accurate predictions, making it a reliable model f
 
 📉 Seaborn & Matplotlib → For data visualization and EDA
 
-#### 👨‍💻 Author - Parth Sharma
+### 👨‍💻 Author - Parth Sharma
 #### 📧 Email: Parthsharma2300@gmail.com
 #### 🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
 
