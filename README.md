@@ -13,7 +13,7 @@ The primary goal is to build a robust predictive model to help in early diagnosi
 This project aims to provide an accurate and scalable solution that can be used in clinical settings for early diagnosis, ultimately helping in the prevention of heart attacks and improving patient care outcomes.
 
 ## 📊 Dataset
-The dataset used for this analysis includes patient health metrics such as:
+The dataset used for this analysis includes patient health metrics such as :
 
 🏷️ Age
 
